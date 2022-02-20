@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "INI",
+        " S ",
+        " S "
+    ],
+    "key": {
+        "I": {
+            "tag": "forge:ingots/iron"
+        },
+		"N": {
+			"item": "minecraft:nether_star"
+		},
+		"S": {
+			"tag": "forge:rods/wooden"
+		}
+    },
+    "result": {
+        "item": "netherstarpick:netherstar_pickaxe",
+        "count": 1
+    }
+}
